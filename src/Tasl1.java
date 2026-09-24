@@ -1,0 +1,2 @@
+public class Tasl1 {
+}
